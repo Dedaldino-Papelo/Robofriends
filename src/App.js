@@ -21,7 +21,7 @@ useEffect(() =>{
         })
         return(
             <div className="tc">
-                <h1>Robotsss</h1>
+                <h1>Robottts</h1>
                 <SearchBox SearchChange={OnSeachChange} />
                 <CardList robots={filterdedRobots}/>
             </div>
